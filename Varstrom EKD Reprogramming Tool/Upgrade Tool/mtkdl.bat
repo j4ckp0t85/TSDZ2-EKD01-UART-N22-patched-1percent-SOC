@@ -1,0 +1,2 @@
+".\FlashtoolLib\Flash_tool.exe" -i ".\FlashtoolLib\Xml\dl_config_no_battery.xml" -o "C:\Users\huiye\log\HY_BROM_DLL.log" -m "C:\Users\huiye\log\HY_META_DLL.log" -d ".\FlashtoolLib\MTK_AllInOne_DA.bin" -s "E:\工作\阿科思迈\测试\测试报告\仪表测试\辉夜EKD01\八方CAN协议\接软件版电池\2025-4-11测试\N21版本-增加波兰语\EKD01_CAN_BF_N21_bin\EKD01_CAN_BF_N21_bin\SOUTHBASE2502C_WT_11C_BB.cfg" -v
+@echo finish!
